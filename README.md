@@ -8,7 +8,7 @@ Apasionado por el desarrollo de software y la creación de soluciones prácticas
 ---
 
 ## 📚 Sobre mí
-🎯 Actualmente en formación como **Desarrollador Full Stack**  
+🎯 Actualmente como **Desarrollador Full Stack**  
 💻 Interesado en desarrollo web, backend y buenas prácticas de software  
 📖 Aprendiendo y reforzando conocimientos en distintos lenguajes y frameworks  
 🤝 Abierto a colaborar en proyectos, prácticas y oportunidades de aprendizaje  
